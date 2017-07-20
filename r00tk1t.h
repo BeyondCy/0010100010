@@ -17,5 +17,5 @@ struct linux_dirent {
 enum {
 	SIGINVIS = 31,
 	SIGSUPER = 64,
-	SIGMODINVIS = 63,
+	SIGMODINVIS = 60,
 };
